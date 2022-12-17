@@ -2,16 +2,40 @@
     "name": "risecommerce/magento-2-ajax-layered-navigation-extension",
     "description": "Risecommerce Ajax Layered Navigation Extension for Magento 2",
     "type": "magento2-module",
-	"version": "1.3.0",
-	"require": {
-		"php": "~7.1.0|~7.2.0|~7.3.0|~7.4.0|^8.0"
-	},
-	"autoload": {
-		"files": [
-			"registration.php"
-		],
-		"psr-4": {
-			"Risecommerce\\AjaxLayeredNavigation\\": ""
-		}
-	}
-}
+	  "version": "1.0.1",
+        "license": [
+        "OSL-3.0",
+        "AFL-3.0"
+      ],
+        "authors": [
+        {
+          "name": "Risecommerce",
+          "email": "support@risecommerce.com",
+          "homepage": "https://www.risecommerce.com",
+          "role": "Technical Support"
+        }
+      ],
+        "minimum-stability": "dev", 
+      "keywords": [
+	"ajax layered navigation magento 2"
+        "magento 2",
+        "magento 2 ajax layered navigation",
+        "magento ajax layered navigation",
+        "risecommerce",
+        " ajax layered navigation",
+        "ajax layered navigation settings"
+      ],
+        "require": {
+            "php": "~7.0.13|~7.1.0|~7.2.0|~7.3.0|~7.4.0|^8.1"
+    
+        },
+        "autoload": {
+            "files": [
+                "registration.php"
+            ],
+            "psr-4": {
+                "Risecommerce\\ProductLabel\\": ""
+            }
+        }
+    }
+    
