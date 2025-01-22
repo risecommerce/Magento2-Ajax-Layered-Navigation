@@ -1,4 +1,4 @@
-# Risecommerce Ajax Layered Navigation Extension
+# Risecommerce Magento 2 Ajax Layered Navigation Extension
 
 This [Magento 2 Ajax Layered Navigation](https://risecommerce.com/store/magento2-ajax-layered-navigation.html) extension extends the Magento 2 layered navigation by allowing your customers to filter, sort and paginate your product catalog with AJAX technology without page refresh.
 
