@@ -1,8 +1,8 @@
 # Risecommerce Ajax Layered Navigation Extension
 
-This [Magento 2 Ajax Catalog Infinite Scroll](https://risecommerce.com/https-risecommerce-com-magento2-ajax-catalog-infinite-scroll-html.html) extension extends the Magento 2 layered navigation by allowing your customers to filter, sort and paginate your product catalog with AJAX technology without page refresh.
+This [Magento 2 Ajax Layered Navigation](https://risecommerce.com/store/magento2-ajax-layered-navigation.html) extension extends the Magento 2 layered navigation by allowing your customers to filter, sort and paginate your product catalog with AJAX technology without page refresh.
 
-For more details about this extension, visit the [Magento 2 Ajax Catalog Infinite Scroll](https://risecommerce.com/https-risecommerce-com-magento2-ajax-catalog-infinite-scroll-html.html).
+For more details about this extension, visit the [Magento 2 Ajax Layered Navigation](https://risecommerce.com/store/magento2-ajax-layered-navigation.html).
 
 If you're looking to enhance your Magento store further, consider hiring a [dedicated Magento developer](https://risecommerce.com/hire-dedicated-magento-developer.html).
 
